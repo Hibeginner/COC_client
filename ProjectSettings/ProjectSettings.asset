@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 10
-  productGUID: 957f82c634821114cb4e7aaa54efa731
+  productGUID: 716562e7345c0204c9cd333a3befe83b
   AndroidProfiler: 0
   defaultScreenOrientation: 4
   targetDevice: 2
@@ -454,7 +454,7 @@ PlayerSettings:
   vrEditorSettings: {}
   cloudServicesEnabled:
     UNet: 1
-  cloudProjectId: 5dc3f834-16a1-4704-8b5f-d3a96d4e168a
-  projectName: COC_client (2)
+  cloudProjectId: 67bb3d64-d1a2-429d-bd55-2b21130d069e
+  projectName: COC_client (3)
   organizationId: taylor-pang
   cloudEnabled: 0
